@@ -1,0 +1,8 @@
+vietocr==0.3.13
+timm==0.4.12
+torch
+torchvision
+streamlit
+opencv-python
+pillow
+numpy==1.26.4
